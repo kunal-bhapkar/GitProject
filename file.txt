@@ -1,0 +1,16 @@
+Hi , my name is Kunal.
+
+change 1 :-> I am a Student.
+
+change 2 :-> to fix bug1.
+
+change 3 :-> NO change at all, bug 2.
+
+change 4 :-> change coming for WI4 , 3-way merging.
+
+change 5 :-> change by team-mate WI5, rebasing.
+
+change 6 :-> for enhancement1 to check rebase.
+
+change 7 :-> To test Stash
+
